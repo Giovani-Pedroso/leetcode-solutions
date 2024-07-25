@@ -1,0 +1,14 @@
+/mnt/hd-to-use/codes/leetcode/Two Sum/bin/Debug/net8.0/Two Sum
+/mnt/hd-to-use/codes/leetcode/Two Sum/bin/Debug/net8.0/Two Sum.deps.json
+/mnt/hd-to-use/codes/leetcode/Two Sum/bin/Debug/net8.0/Two Sum.runtimeconfig.json
+/mnt/hd-to-use/codes/leetcode/Two Sum/bin/Debug/net8.0/Two Sum.dll
+/mnt/hd-to-use/codes/leetcode/Two Sum/bin/Debug/net8.0/Two Sum.pdb
+/mnt/hd-to-use/codes/leetcode/Two Sum/obj/Debug/net8.0/Two Sum.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/hd-to-use/codes/leetcode/Two Sum/obj/Debug/net8.0/Two Sum.AssemblyInfoInputs.cache
+/mnt/hd-to-use/codes/leetcode/Two Sum/obj/Debug/net8.0/Two Sum.AssemblyInfo.cs
+/mnt/hd-to-use/codes/leetcode/Two Sum/obj/Debug/net8.0/Two Sum.csproj.CoreCompileInputs.cache
+/mnt/hd-to-use/codes/leetcode/Two Sum/obj/Debug/net8.0/Two Sum.dll
+/mnt/hd-to-use/codes/leetcode/Two Sum/obj/Debug/net8.0/refint/Two Sum.dll
+/mnt/hd-to-use/codes/leetcode/Two Sum/obj/Debug/net8.0/Two Sum.pdb
+/mnt/hd-to-use/codes/leetcode/Two Sum/obj/Debug/net8.0/Two Sum.genruntimeconfig.cache
+/mnt/hd-to-use/codes/leetcode/Two Sum/obj/Debug/net8.0/ref/Two Sum.dll
