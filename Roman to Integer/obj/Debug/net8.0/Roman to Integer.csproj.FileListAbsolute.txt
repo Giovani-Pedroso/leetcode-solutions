@@ -1,0 +1,15 @@
+/mnt/hd-to-use/codes/leetcode/Roman to Integer/bin/Debug/net8.0/Roman to Integer
+/mnt/hd-to-use/codes/leetcode/Roman to Integer/bin/Debug/net8.0/Roman to Integer.deps.json
+/mnt/hd-to-use/codes/leetcode/Roman to Integer/bin/Debug/net8.0/Roman to Integer.runtimeconfig.json
+/mnt/hd-to-use/codes/leetcode/Roman to Integer/bin/Debug/net8.0/Roman to Integer.dll
+/mnt/hd-to-use/codes/leetcode/Roman to Integer/bin/Debug/net8.0/Roman to Integer.pdb
+/mnt/hd-to-use/codes/leetcode/Roman to Integer/obj/Debug/net8.0/Roman to Integer.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/hd-to-use/codes/leetcode/Roman to Integer/obj/Debug/net8.0/Roman to Integer.AssemblyInfoInputs.cache
+/mnt/hd-to-use/codes/leetcode/Roman to Integer/obj/Debug/net8.0/Roman to Integer.AssemblyInfo.cs
+/mnt/hd-to-use/codes/leetcode/Roman to Integer/obj/Debug/net8.0/Roman to Integer.csproj.CoreCompileInputs.cache
+/mnt/hd-to-use/codes/leetcode/Roman to Integer/obj/Debug/net8.0/Roman to Integer.sourcelink.json
+/mnt/hd-to-use/codes/leetcode/Roman to Integer/obj/Debug/net8.0/Roman to Integer.dll
+/mnt/hd-to-use/codes/leetcode/Roman to Integer/obj/Debug/net8.0/refint/Roman to Integer.dll
+/mnt/hd-to-use/codes/leetcode/Roman to Integer/obj/Debug/net8.0/Roman to Integer.pdb
+/mnt/hd-to-use/codes/leetcode/Roman to Integer/obj/Debug/net8.0/Roman to Integer.genruntimeconfig.cache
+/mnt/hd-to-use/codes/leetcode/Roman to Integer/obj/Debug/net8.0/ref/Roman to Integer.dll

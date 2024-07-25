@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D2JqvccuPyDLVZ6K4I0LZIsozo+DGutk5f6bvGH+3yKP2w29bd6S5aONzKy7XBH1WRAUY1es0I4iNerjTdi2tA==",
+  "success": true,
+  "projectFilePath": "/mnt/hd-to-use/codes/leetcode/Roman to Integer/Roman to Integer.csproj",
+  "expectedPackageFiles": [
+    "/home/giovani/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
