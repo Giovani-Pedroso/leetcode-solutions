@@ -12,3 +12,4 @@
 /mnt/hd-to-use/codes/leetcode/Two Sum/obj/Debug/net8.0/Two Sum.pdb
 /mnt/hd-to-use/codes/leetcode/Two Sum/obj/Debug/net8.0/Two Sum.genruntimeconfig.cache
 /mnt/hd-to-use/codes/leetcode/Two Sum/obj/Debug/net8.0/ref/Two Sum.dll
+/mnt/hd-to-use/codes/leetcode/Two Sum/obj/Debug/net8.0/Two Sum.sourcelink.json
