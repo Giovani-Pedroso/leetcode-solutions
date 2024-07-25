@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P/0VW2MMI/rJreK2haRmG0DIBcByKv8A2hdvi13nv7D5gfCdnUy7W+Y70QJ7kedyGMpuRa1C4PtUb5/Af9AKrA==",
+  "success": true,
+  "projectFilePath": "/mnt/hd-to-use/codes/leetcode/9. Palindrome Number/9. Palindrome Number.csproj",
+  "expectedPackageFiles": [
+    "/home/giovani/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

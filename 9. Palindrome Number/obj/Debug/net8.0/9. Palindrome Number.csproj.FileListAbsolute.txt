@@ -1,0 +1,15 @@
+/mnt/hd-to-use/codes/leetcode/9. Palindrome Number/bin/Debug/net8.0/9. Palindrome Number
+/mnt/hd-to-use/codes/leetcode/9. Palindrome Number/bin/Debug/net8.0/9. Palindrome Number.deps.json
+/mnt/hd-to-use/codes/leetcode/9. Palindrome Number/bin/Debug/net8.0/9. Palindrome Number.runtimeconfig.json
+/mnt/hd-to-use/codes/leetcode/9. Palindrome Number/bin/Debug/net8.0/9. Palindrome Number.dll
+/mnt/hd-to-use/codes/leetcode/9. Palindrome Number/bin/Debug/net8.0/9. Palindrome Number.pdb
+/mnt/hd-to-use/codes/leetcode/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/hd-to-use/codes/leetcode/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.AssemblyInfoInputs.cache
+/mnt/hd-to-use/codes/leetcode/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.AssemblyInfo.cs
+/mnt/hd-to-use/codes/leetcode/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.csproj.CoreCompileInputs.cache
+/mnt/hd-to-use/codes/leetcode/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.sourcelink.json
+/mnt/hd-to-use/codes/leetcode/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.dll
+/mnt/hd-to-use/codes/leetcode/9. Palindrome Number/obj/Debug/net8.0/refint/9. Palindrome Number.dll
+/mnt/hd-to-use/codes/leetcode/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.pdb
+/mnt/hd-to-use/codes/leetcode/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.genruntimeconfig.cache
+/mnt/hd-to-use/codes/leetcode/9. Palindrome Number/obj/Debug/net8.0/ref/9. Palindrome Number.dll
