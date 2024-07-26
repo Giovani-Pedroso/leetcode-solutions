@@ -1,0 +1,15 @@
+/mnt/hd-to-use/codes/leetcode/14. Longest Common Prefix/bin/Debug/net8.0/14. Longest Common Prefix
+/mnt/hd-to-use/codes/leetcode/14. Longest Common Prefix/bin/Debug/net8.0/14. Longest Common Prefix.deps.json
+/mnt/hd-to-use/codes/leetcode/14. Longest Common Prefix/bin/Debug/net8.0/14. Longest Common Prefix.runtimeconfig.json
+/mnt/hd-to-use/codes/leetcode/14. Longest Common Prefix/bin/Debug/net8.0/14. Longest Common Prefix.dll
+/mnt/hd-to-use/codes/leetcode/14. Longest Common Prefix/bin/Debug/net8.0/14. Longest Common Prefix.pdb
+/mnt/hd-to-use/codes/leetcode/14. Longest Common Prefix/obj/Debug/net8.0/14. Longest Common Prefix.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/hd-to-use/codes/leetcode/14. Longest Common Prefix/obj/Debug/net8.0/14. Longest Common Prefix.AssemblyInfoInputs.cache
+/mnt/hd-to-use/codes/leetcode/14. Longest Common Prefix/obj/Debug/net8.0/14. Longest Common Prefix.AssemblyInfo.cs
+/mnt/hd-to-use/codes/leetcode/14. Longest Common Prefix/obj/Debug/net8.0/14. Longest Common Prefix.csproj.CoreCompileInputs.cache
+/mnt/hd-to-use/codes/leetcode/14. Longest Common Prefix/obj/Debug/net8.0/14. Longest Common Prefix.sourcelink.json
+/mnt/hd-to-use/codes/leetcode/14. Longest Common Prefix/obj/Debug/net8.0/14. Longest Common Prefix.dll
+/mnt/hd-to-use/codes/leetcode/14. Longest Common Prefix/obj/Debug/net8.0/refint/14. Longest Common Prefix.dll
+/mnt/hd-to-use/codes/leetcode/14. Longest Common Prefix/obj/Debug/net8.0/14. Longest Common Prefix.pdb
+/mnt/hd-to-use/codes/leetcode/14. Longest Common Prefix/obj/Debug/net8.0/14. Longest Common Prefix.genruntimeconfig.cache
+/mnt/hd-to-use/codes/leetcode/14. Longest Common Prefix/obj/Debug/net8.0/ref/14. Longest Common Prefix.dll

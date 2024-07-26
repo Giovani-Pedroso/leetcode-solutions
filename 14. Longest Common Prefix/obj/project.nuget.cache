@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "su9kMqq1NbX82gmlUc6/VlsCo/VHKVCM+m+QHfi5PYKPf0x69TngFrstOUPnpPYUYE7jR7rkanXG/4q8SHvPTQ==",
+  "success": true,
+  "projectFilePath": "/mnt/hd-to-use/codes/leetcode/14. Longest Common Prefix/14. Longest Common Prefix.csproj",
+  "expectedPackageFiles": [
+    "/home/giovani/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
